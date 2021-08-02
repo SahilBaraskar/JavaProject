@@ -1,0 +1,12 @@
+ Volume in drive C is OS
+ Volume Serial Number is 3E43-7F5F
+
+ Directory of C:\Users\sahil\Desktop\SE\javaproject
+
+03-08-2021  01:47    <DIR>          .
+03-08-2021  01:47    <DIR>          ..
+03-08-2021  01:42               419 hello.class
+02-08-2021  23:37               118 Hello.java
+03-08-2021  01:47                 0 newfile.txt
+               3 File(s)            537 bytes
+               2 Dir(s)  151,029,637,120 bytes free
